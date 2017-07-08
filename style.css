@@ -1,0 +1,28 @@
+.inline-block {
+  display: inline-block;
+}
+
+.unstyled {
+  list-style: none;
+}
+
+.part-four {
+  background-color: #e5eecc;
+  border: 1px solid #c3c3c3;
+  padding: 5px;
+}
+
+.p-part-four {
+  padding: 50px;
+}
+
+
+#piedpage table {
+  width: 100%;
+}
+
+#piedpage table td {
+  padding: 10px;
+  width: 33%;
+  text-align: center;
+}
